@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import java.io.IOException;
 
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
-public class All_Test {
+public class Step_Test {
 
     PageTeste pagetest = new PageTeste();
 
