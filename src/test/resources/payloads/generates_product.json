@@ -1,0 +1,11 @@
+
+{
+  "name": "Apple Pro 16",
+  "data": {
+    "year": 2019,
+    "price": 1849.99,
+    "CPU model": "Apple M2",
+    "Hard disk size": "256 GB SSD",
+    "color": "midnight"
+  }
+}
